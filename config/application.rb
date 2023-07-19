@@ -16,7 +16,7 @@ module Nails
     # These settings can be overridden in specific environments using the files
     # in config/environments, which are processed later.
     #
-    config.time_zone = "Brasília"
+    config.time_zone = "Brasilia"
     config.i18n.default_locale = "pt-BR"
     # config.eager_load_paths << Rails.root.join("extras")
   end
